@@ -1,7 +1,7 @@
 ## Olá eu sou a Eliéser Nascimento, um entusiasta da tecnologia! Estou pronto para enfrentar desafios e contribuir com soluções impactantes para o mundo.
 
 <div>
-<a href-"https: //beacons.ai/rafaballerini”>
+<a href="https://beacons.ai/rafaballerini">
 <img height="180em” src="https: //github-readme -stats.vercel.app/api?username-rafaballerinifishou icons-trueftheme-dracula&include all comits-true&count private-true"/>
 <ing height-"180em" src-”https://github-rendue-stats.vercel.app/api/top-langs/ ?usernome-rafaballerinihlayout-compact&langs. count=I6&theme-dracula" >
 </div>
